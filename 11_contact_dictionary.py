@@ -1,4 +1,3 @@
-# Initialize an empty dictionary to store contacts
 contacts = {}
 
 def is_valid_phone(phone):
@@ -55,6 +54,5 @@ def main():
         else:
             print("Invalid choice. Please select a valid option.")
 
-# Run the main function
 if __name__ == "__main__":
     main()
